@@ -1,0 +1,16 @@
+input {
+    display: block;
+    padding-bottom: 10px;
+    padding-right: 50px;
+}
+form{
+    border: 3px double brown;
+    padding: 10px;
+    width: 350px;
+}
+#button{
+    border: 2px solid blue;
+    background-color: gold;
+    color: blue;
+    font-size: 20px;
+}
